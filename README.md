@@ -1,2 +1,2 @@
 # HOL
-This repository is for handson labs on various topics
+This is a repository for Hands-on Labs on various topics.
